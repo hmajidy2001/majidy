@@ -1,0 +1,8 @@
+[28-Sep-2015 04:46:59 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/hamidm2/public_html/majidy.info/wp-content/themes/twentythirteen/404.php on line 10
+[28-Sep-2015 04:47:00 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/hamidm2/public_html/majidy.info/wp-content/themes/twentythirteen/404.php on line 10
+[27-Oct-2015 22:30:41 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/hamidm2/public_html/majidy.info/wp-content/themes/twentythirteen/index.php on line 17
+[27-Oct-2015 22:30:48 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/hamidm2/public_html/majidy.info/wp-content/themes/twentythirteen/404.php on line 10
+[28-Oct-2015 16:59:24 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/hamidm2/public_html/majidy.info/wp-content/themes/twentythirteen/index.php on line 17
+[28-Oct-2015 16:59:36 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/hamidm2/public_html/majidy.info/wp-content/themes/twentythirteen/404.php on line 10
+[16-Dec-2015 17:45:17 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/hamidm2/public_html/majidy.info/wp-content/themes/twentythirteen/404.php on line 10
+[16-Dec-2015 17:45:49 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/hamidm2/public_html/majidy.info/wp-content/themes/twentythirteen/404.php on line 10

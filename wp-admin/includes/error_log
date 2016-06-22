@@ -1,0 +1,4 @@
+[27-Sep-2015 23:50:41 UTC] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/hamidm2/public_html/majidy.info/wp-admin/includes/class-wp-filesystem-ssh2.php on line 43
+[27-Sep-2015 23:50:41 UTC] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/hamidm2/public_html/majidy.info/wp-admin/includes/class-wp-filesystem-ssh2.php on line 43
+[16-Dec-2015 13:33:49 UTC] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/hamidm2/public_html/majidy.info/wp-admin/includes/class-wp-filesystem-ssh2.php on line 43
+[16-Dec-2015 13:33:58 UTC] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/hamidm2/public_html/majidy.info/wp-admin/includes/class-wp-filesystem-ssh2.php on line 43
